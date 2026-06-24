@@ -166,7 +166,7 @@ export default function LoginPage() {
             <p className="text-gray-700 mt-2">
               Password:
               <code className="ml-2 bg-white px-2 py-1 rounded">
-                admin
+                admin123
               </code>
             </p>
           </div>
